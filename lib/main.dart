@@ -84,7 +84,7 @@ class MyApp extends StatelessWidget {
             children: [
               UserAccountsDrawerHeader(
                 accountName: Text('Muhammed Hosny'),
-                accountEmail: Text('mhonsny67710@gmail.com'),
+                accountEmail: Text('mhosny67710@gmail.com'),
                 currentAccountPicture: CircleAvatar(
                   backgroundImage: NetworkImage(
                       'https://avatars3.githubusercontent.com/u/65831561?s=400&u=815946f814a87364ced49e57453d19912537188f&v=4'),
